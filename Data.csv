@@ -1,11 +1,11 @@
 Mata Pelajaran, Usia, Nilai, Lulus
-Matematika, 15, 80.5, Ya
-Fisika, 17, 55.5, Tidak
-Kimia, 16,, Tidak
-Biologi, 18, 80.7, Ya
-Matematika, 17, 70.5, Ya
-Fisika,, 85.2, Ya
-Kimia, 15,  87.2, Tidak
-Biologi, 16, 80.5, Tidak
-Matematika, 17, 75.7, Ya
-Fisika, 18, 85.9, Ya
+Matematika, 15, 80, 0
+Fisika, 17, 55, 1
+Kimia, 16,70, 0
+Biologi, 18, 80, 1
+Matematika, 17, 70, 0
+Fisika,35, 85, 1
+Kimia, 15,  87, 0
+Biologi, 16, 80, 1
+Matematika, 17, 75, 0
+Fisika, 18, 85, 1
